@@ -98,7 +98,7 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('https://cms.rkicoop.co.id/api.php?act=berita&id-dekopin=176')
+    fetch('https://cms.rkicoop.co.id/api.php?act=berita&id_dekopin=176')
         .then(response => response.json())
         .then(data => {
             const beritaElement = document.getElementById('berita');
