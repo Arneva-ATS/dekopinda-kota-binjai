@@ -1,1 +1,1 @@
-# dekopinda-kota-binjai
+# dekopinda-karanganyar
